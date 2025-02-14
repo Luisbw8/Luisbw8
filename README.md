@@ -1,6 +1,6 @@
-# Olá, eu sou o Luis!
-- Desenvolvedor Front End
-- Pronome: ele/dele 
+# Olá, eu sou o Luis 👋
+- Desenvolvedor Front End 💻 
+- Pronome: ele/dele 😀
 
 <div>
   <a href="https://github.com/luisbw8">
