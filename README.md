@@ -1,7 +1,8 @@
 Olá, eu sou o Luis 👋
 
-💻 Desenvolvedor Front-End  
-🎓 Técnico em Desenvolvimento de Sistemas  
+💻 Desenvolvedor Web
+🎓 Técnico em Desenvolvimento de Sistemas
+🤖 Ciência da Computação
 🚀 Focado em React, Next.js e TypeScript  
 📚 Sempre aprendendo novas tecnologias
 
