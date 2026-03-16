@@ -11,7 +11,7 @@ Olá, eu sou o Luis 👋
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbw8&layout=compact&langs_count=16&theme=radical"/>
 </div>
     <div>
-    <p align="center">
+    <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,javascript,typescript,react,html,css,java,php" />
   </a>
