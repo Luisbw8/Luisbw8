@@ -1,6 +1,9 @@
-# Olá, eu sou o Luis 👋
-- Desenvolvedor Front End 💻 
-- Pronome: ele/dele 😀
+Olá, eu sou o Luis 👋
+
+💻 Desenvolvedor Front-End  
+🎓 Técnico em Desenvolvimento de Sistemas  
+🚀 Focado em React, Next.js e TypeScript  
+📚 Sempre aprendendo novas tecnologias
 
 <div>
   <a href="https://github.com/luisbw8">
