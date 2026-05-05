@@ -13,7 +13,7 @@ Olá, eu sou o Luis 👋
     <div>
     <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,typescript,react,html,css,java,php" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,typescript,react,html,css,java,php,tailwind" />
   </a>
 </p>
 
