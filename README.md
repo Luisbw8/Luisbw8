@@ -3,7 +3,7 @@ Olá, eu sou o Luis 👋
 💻 Desenvolvedor Web <br>
 🎓 Técnico em Desenvolvimento de Sistemas<br>
 🤖 Ciência da Computação<br>
-🚀 Focado em React, Next.js e TypeScript<br>  
+🚀 Focado em desenvolvimento Web<br>  
 📚 Sempre aprendendo novas tecnologias<br>
 
 <div>
