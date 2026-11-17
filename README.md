@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="./assets/bannerzinho.png" width="100%" alt="Banner pixel art do Luis" />
+</div>
+
+<br/>
+
+
 # Olá, eu sou o Luis! 👋
 
 <p align="left">
