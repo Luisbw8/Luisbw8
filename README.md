@@ -36,7 +36,7 @@
 **Ferramentas e ambiente**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
 ---
