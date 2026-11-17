@@ -30,7 +30,7 @@
 **Outras linguagens e tecnologias**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,java,cpp,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,mongodb" />
 </p>
 
 **Ferramentas e ambiente**
