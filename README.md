@@ -5,27 +5,6 @@
 <br/>
 
 
-# Olá, eu sou o Luis! 👋
-
-<p align="left">
-  Desenvolvedor em formação, estudante de Ciência da Computação e apaixonado por tecnologia.
-  Tenho interesse principalmente em desenvolvimento Web, explorando novas ferramentas,
-  construindo projetos e aprimorando minhas habilidades constantemente.
-</p>
-
----
-
-### 👨‍💻 Sobre mim
-
-- 🎓 Estudante de Ciência da Computação na UniFAJ.
-- 💻 Foco em desenvolvimento Web, especialmente JavaScript e TypeScript.
-- ⚙️ Experiência com desenvolvimento utilizando React, Next.js e Node.js.
-- 🖥️ Atualmente atuando como estagiário de TI na área de Infraestrutura.
-- 🔐 Interesse em redes, infraestrutura e Cybersecurity.
-- 📚 Sempre buscando aprender, desenvolver projetos e evoluir profissionalmente.
-
----
-
 ### 🚀 Tecnologias e ferramentas
 
 **Desenvolvimento Web**
